@@ -78,33 +78,33 @@ El sistema se diseña alrededor de un Betta HMPK con invertebrados funcionales, 
   - [Disposición física de dispositivos](#disposicion-fisica-de-dispositivos)
   - [Criterio de éxito del control](#criterio-de-exito-del-control)
 - [Operación](#operación)
-  - [1. Montaje inicial (fase única)](#1-montaje-inicial-fase-única)
+  - [Montaje inicial (fase única)](#montaje-inicial-fase-única)
     - [Orden de montaje](#orden-de-montaje)
     - [Criterios de esta fase](#criterios-de-esta-fase)
     - [Plantado inicial (rangos de arranque)](#plantado-inicial-rangos-de-arranque)
-  - [2. Ciclado biológico (sin fauna)](#2-ciclado-biológico-sin-fauna)
+  - [Ciclado biológico (sin fauna)](#ciclado-biológico-sin-fauna)
     - [Objetivo](#objetivo)
     - [Criterios de salida del ciclado](#criterios-de-salida-del-ciclado)
     - [Qué es normal en esta fase](#que-es-normal-en-esta-fase)
     - [Qué NO hacer](#que-no-hacer)
-  - [3. Maduración temprana del sistema](#3-maduración-temprana-del-sistema)
+  - [Maduración temprana del sistema](#maduración-temprana-del-sistema)
     - [Objetivo](#objetivo-1)
     - [Indicadores positivos](#indicadores-positivos)
     - [Intervención permitida](#intervencion-permitida)
-  - [4. Introducción de fauna por fases](#4-introduccion-de-fauna-por-fases)
-    - [Fase A · Introducción de Neritina (*Clithon* sp.)](#fase-a--introduccion-de-neritina-clithon-sp)
-    - [Fase B · Introducción de gambas Amano (*Caridina multidentata*)](#fase-b--introduccion-de-gambas-amano-caridina-multidentata)
-    - [Fase C · Introducción del Betta (*Betta splendens*)](#fase-c--introduccion-del-betta-betta-splendens)
-  - [5. Dinámica temporal del ecosistema](#5-dinámica-temporal-del-ecosistema)
-    - [Fase 1 · Arranque biológico](#fase-1--arranque-biologico)
-    - [Fase 2 · Consolidación vegetal y microfauna](#fase-2--consolidacion-vegetal-y-microfauna)
-    - [Fase 3 · Sistema maduro](#fase-3--sistema-maduro)
-  - [6. Umbrales de intervención y señales](#6-umbrales-de-intervención-y-señales)
+  - [Introducción de fauna por fases](#introducción-de-fauna-por-fases)
+    - [Introducción de Neritina (*Clithon* sp.)](#introducción-de-neritina-clithon-sp)
+    - [Introducción de gambas Amano (*Caridina multidentata*)](#introducción-de-gambas-amano-caridina-multidentata)
+    - [Introducción del Betta (*Betta splendens*)](#introducción-del-betta-betta-splendens)
+  - [Dinámica temporal del ecosistema](#dinámica-temporal-del-ecosistema)
+    - [Arranque biológico](#arranque-biológico)
+    - [Consolidación vegetal y microfauna](#consolidación-vegetal-y-microfauna)
+    - [Sistema maduro](#sistema-maduro)
+  - [Umbrales de intervención y señales](#umbrales-de-intervención-y-señales)
     - [Principio general](#principio-general)
     - [Umbrales químicos](#umbrales-quimicos)
     - [Umbrales biológicos](#umbrales-biologicos)
     - [Umbrales comportamentales](#umbrales-comportamentales)
-  - [7. Mantenimiento operativo](#7-mantenimiento-operativo)
+  - [Mantenimiento operativo](#mantenimiento-operativo)
     - [Principio general de mantenimiento](#principio-general-de-mantenimiento)
     - [Alimentación de la fauna](#alimentacion-de-la-fauna)
     - [Iluminación](#iluminacion)
@@ -116,31 +116,31 @@ El sistema se diseña alrededor de un Betta HMPK con invertebrados funcionales, 
 - [Gestión de fallos, errores y seguridad operativa](#gestión-de-fallos-errores-y-seguridad-operativa)
   - [Principio general](#principio-general-1)
   - [Tipos de fallo contemplados](#tipos-de-fallo-contemplados)
-    - [1. Fallos térmicos](#1-fallos-térmicos)
-    - [2. Fallos eléctricos](#2-fallos-eléctricos)
-    - [3. Errores de alimentación](#3-errores-de-alimentación)
-    - [4. Errores de mantenimiento](#4-errores-de-mantenimiento)
+    - [Fallos térmicos](#fallos-térmicos)
+    - [Fallos eléctricos](#fallos-eléctricos)
+    - [Errores de alimentación](#errores-de-alimentación)
+    - [Errores de mantenimiento](#errores-de-mantenimiento)
   - [Señales de fallo real (no ruido)](#señales-de-fallo-real-no-ruido)
   - [Estrategia de seguridad pasiva](#estrategia-de-seguridad-pasiva)
   - [Principio final de gestión de fallos](#principio-final-de-gestión-de-fallos)
 - [Aquascaping y composición visual del sistema](#aquascaping-y-composición-visual-del-sistema)
-  - [1. Tema visual y narrativa espacial](#1-tema-visual-y-narrativa-espacial)
-  - [2. Punto focal y jerarquía compositiva](#2-punto-focal-y-jerarquía-compositiva)
+  - [Tema visual y narrativa espacial](#tema-visual-y-narrativa-espacial)
+  - [Punto focal y jerarquía compositiva](#punto-focal-y-jerarquía-compositiva)
     - [Punto focal principal](#punto-focal-principal)
     - [Jerarquía de masas](#jerarquia-de-masas)
-  - [3. Línea de lectura y dirección del paisaje](#3-línea-de-lectura-y-dirección-del-paisaje)
-  - [4. Escala y tratamiento del hardscape](#4-escala-y-tratamiento-del-hardscape)
+  - [Línea de lectura y dirección del paisaje](#línea-de-lectura-y-dirección-del-paisaje)
+  - [Escala y tratamiento del hardscape](#escala-y-tratamiento-del-hardscape)
     - [Roca volcánica](#roca-volcanica)
-  - [5. Madera como línea estructural](#5-madera-como-línea-estructural)
-  - [6. Plantado como herramienta estética](#6-plantado-como-herramienta-estética)
+  - [Madera como línea estructural](#madera-como-línea-estructural)
+  - [Plantado como herramienta estética](#plantado-como-herramienta-estética)
     - [Principios estéticos](#principios-esteticos)
     - [Lectura por estratos](#lectura-por-estratos)
-  - [7. Gestión estética de la luz](#7-gestión-estética-de-la-luz)
-  - [8. Fondo del acuario: cobertura y función](#8-fondo-del-acuario-cobertura-y-función)
+  - [Gestión estética de la luz](#gestión-estética-de-la-luz)
+  - [Fondo del acuario: cobertura y función](#fondo-del-acuario-cobertura-y-función)
     - [Decisión adoptada](#decisión-adoptada)
     - [Justificación](#justificación)
-  - [9. Relación con el entorno (despacho)](#9-relación-con-el-entorno-despacho)
-  - [10. Mantenimiento estético a largo plazo](#10-mantenimiento-estético-a-largo-plazo)
+  - [Relación con el entorno (despacho)](#relación-con-el-entorno-despacho)
+  - [Mantenimiento estético a largo plazo](#mantenimiento-estético-a-largo-plazo)
     - [Espacio negativo activo: la playa como escala](#espacio-negativo-activo-la-playa-como-escala)
     - [Pátina y antigüedad: biofilm y microalgas como lectura de madurez](#pátina-y-antigüedad-biofilm-y-microalgas-como-lectura-de-madurez)
   - [Criterio final de éxito estético](#criterio-final-de-éxito-estético)
@@ -1172,7 +1172,7 @@ Este capítulo describe **cómo montar, poner en marcha y mantener el acuario** 
 
 El sistema **no se fuerza** ni se corrige de forma reactiva. La estabilidad se alcanza permitiendo que cada fase ocurra por completo antes de pasar a la siguiente.
 
-### 1. Montaje inicial (fase única)
+### Montaje inicial (fase única)
 
 Esta fase se realiza **una sola vez** y no se revisita salvo fallo crítico del sistema. Todo lo que se define aquí forma parte de la **infraestructura permanente** del acuario.
 
@@ -1276,7 +1276,7 @@ El plantado de arranque cumple tres funciones clave:
 
 > El plantado de arranque no define cómo debe verse el acuario,  
 > define **cómo empieza a funcionar**.
-### 2. Ciclado biológico (sin fauna)
+### Ciclado biológico (sin fauna)
 
 El ciclado es el proceso de establecimiento de las bacterias nitrificantes.  
 Esta fase **termina** y **no continúa** tras la introducción de fauna.
@@ -1308,7 +1308,7 @@ Se considera **completo** cuando:
 - No añadir fauna “para ayudar”
 - No perseguir valores ideales
 
-### 3. Maduración temprana del sistema
+### Maduración temprana del sistema
 
 Una vez finalizado el ciclado, el sistema entra en **fase de maduración**.
 
@@ -1331,11 +1331,11 @@ Aquí **ya no se cicla**: el ecosistema empieza a **organizarse internamente**.
 - Ninguna correctiva
 - Observación y documentación
 
-### 4. Introducción de fauna por fases
+### Introducción de fauna por fases
 
 La fauna se introduce **solo cuando el sistema puede sostenerla**, no antes.
 
-#### Fase A · Introducción de Neritina (*Clithon* sp.)
+#### Introducción de Neritina (*Clithon* sp.)
 
 **Criterios de entrada:**
 - Biofilm visible y continuo
@@ -1348,7 +1348,7 @@ La fauna se introduce **solo cuando el sistema puede sostenerla**, no antes.
 - Control temprano de algas duras
 - Validar estabilidad química básica
 
-#### Fase B · Introducción de gambas Amano (*Caridina multidentata*)
+#### Introducción de gambas Amano (*Caridina multidentata*)
 
 **Criterios de entrada:**
 - Sistema estable tras la Neritina
@@ -1361,7 +1361,7 @@ La fauna se introduce **solo cuando el sistema puede sostenerla**, no antes.
 - Activación del estrato bentónico
 - Consolidación de microecosistema
 
-#### Fase C · Introducción del Betta (*Betta splendens*)
+#### Introducción del Betta (*Betta splendens*)
 
 **Criterios de entrada:**
 - Sistema estable con invertebrados
@@ -1373,11 +1373,11 @@ La fauna se introduce **solo cuando el sistema puede sostenerla**, no antes.
 - Introducir la especie focal en un entorno ya funcional
 - Evitar que el Betta condicione el sistema antes de tiempo
 
-### 5. Dinámica temporal del ecosistema
+### Dinámica temporal del ecosistema
 
 Este sistema no alcanza un estado “final”, sino un **equilibrio dinámico**.
 
-#### Fase 1 · Arranque biológico
+#### Arranque biológico
 
 **Estado dominante:** colonización bacteriana y adaptación vegetal  
 **Riesgo principal:** intervención excesiva
@@ -1387,7 +1387,7 @@ Este sistema no alcanza un estado “final”, sino un **equilibrio dinámico**.
 - Taninos evidentes
 - NO₃ inestable
 
-#### Fase 2 · Consolidación vegetal y microfauna
+#### Consolidación vegetal y microfauna
 
 **Estado dominante:** equilibrio entre producción y consumo  
 **Riesgo principal:** optimizar estética demasiado pronto
@@ -1397,7 +1397,7 @@ Este sistema no alcanza un estado “final”, sino un **equilibrio dinámico**.
 - Flotantes autorregulándose
 - Agua clara con tono estable
 
-#### Fase 3 · Sistema maduro
+#### Sistema maduro
 
 **Estado dominante:** mantenimiento pasivo  
 **Riesgo principal:** romper lo que ya funciona
@@ -1406,7 +1406,7 @@ Este sistema no alcanza un estado “final”, sino un **equilibrio dinámico**.
 - Ecosistema resiliente
 - Tolerancia a pequeñas variaciones
 
-### 6. Umbrales de intervención y señales
+### Umbrales de intervención y señales
 
 El sistema **no se corrige por valores aislados**, sino por **tendencias acompañadas de señales biológicas**.
 
@@ -1433,7 +1433,7 @@ El sistema **no se corrige por valores aislados**, sino por **tendencias acompa�
 - **Gambas:** muertes tras muda o inactividad prolongada
 - **Neritina:** pérdida de adherencia o daño en concha
 
-### 7. Mantenimiento operativo
+### Mantenimiento operativo
 
 El mantenimiento de este acuario es **pasivo, predecible y deliberadamente conservador**. Parte de la premisa de que el sistema ya ha sido diseñado para autorregularse dentro de unos márgenes funcionales amplios, por lo que la intervención humana se limita a **mantener tendencias**, no a corregir valores ni forzar resultados.
 
@@ -1650,7 +1650,7 @@ La mayoría de problemas graves en acuarios pequeños no se deben al fallo inici
 
 ### Tipos de fallo contemplados
 
-#### 1. Fallos térmicos
+#### Fallos térmicos
 
 **Escenarios posibles**
 - Ola de calor prolongada.
@@ -1671,7 +1671,7 @@ La mayoría de problemas graves en acuarios pequeños no se deben al fallo inici
 - Enfriar agua manualmente con hielo o cambios bruscos.
 - Manipular iluminación como primera respuesta.
 
-#### 2. Fallos eléctricos
+#### Fallos eléctricos
 
 **Escenarios posibles**
 - Corte de suministro.
@@ -1691,7 +1691,7 @@ La mayoría de problemas graves en acuarios pequeños no se deben al fallo inici
 - Limpiar filtro “por si acaso”.
 - Realizar cambios de agua preventivos sin señales.
 
-#### 3. Errores de alimentación
+#### Errores de alimentación
 
 **Escenarios posibles**
 - Sobrealimentación puntual.
@@ -1711,7 +1711,7 @@ La mayoría de problemas graves en acuarios pequeños no se deben al fallo inici
 - Cambios de agua reactivos inmediatos.
 - Limpiezas profundas del sustrato.
 
-#### 4. Errores de mantenimiento
+#### Errores de mantenimiento
 
 **Escenarios posibles**
 - Poda excesiva.
@@ -1770,7 +1770,7 @@ Este capítulo define **cómo debe leerse visualmente el acuario**, cómo se con
 
 El objetivo no es maximizar impacto inmediato, sino construir un paisaje **coherente, legible y sostenible**, cuya estética emerja del funcionamiento ecológico ya definido.
 
-### 1. Tema visual y narrativa espacial
+### Tema visual y narrativa espacial
 
 El acuario representa un **barranco volcánico erosionado que desemboca en una zona costera**, inspirado en paisajes reales de Tenerife.
 
@@ -1783,7 +1783,7 @@ La narrativa visual se apoya en tres ideas clave:
 Nada en el paisaje es simétrico ni ornamental.  
 La lectura debe ser **natural, asimétrica y direccional**, sin elementos centrales ni equilibrios artificiales.
 
-### 2. Punto focal y jerarquía compositiva
+### Punto focal y jerarquía compositiva
 
 #### Punto focal principal
 
@@ -1812,7 +1812,7 @@ Su función es **anclar la mirada** y dar credibilidad al paisaje.
 Nada debe competir visualmente con la roca madre.  
 Si algo atrae más atención que ella, **está sobredimensionado o mal ubicado**.
 
-### 3. Línea de lectura y dirección del paisaje
+### Línea de lectura y dirección del paisaje
 
 El barranco define una **línea visual principal en diagonal suave**, idealmente en forma de **S muy abierta**, que conecta:
 
@@ -1826,7 +1826,7 @@ Reglas de lectura:
 
 La mirada debe **entrar en el paisaje**, recorrerlo y descansar en la zona abierta sin bloqueos visuales.
 
-### 4. Escala y tratamiento del hardscape
+### Escala y tratamiento del hardscape
 
 #### Roca volcánica
 
@@ -1844,7 +1844,7 @@ Se evita explícitamente:
 
 La grava volcánica fina actúa como **lenguaje geológico**, no como elemento ornamental.
 
-### 5. Madera como línea estructural
+### Madera como línea estructural
 
 La madera de vid cumple una función **compositiva y direccional**:
 
@@ -1861,7 +1861,7 @@ Reglas claras:
 
 La madera **no debe parecer colocada**, sino erosionada y emergente del conjunto.
 
-### 6. Plantado como herramienta estética
+### Plantado como herramienta estética
 
 El plantado **refuerza la composición**, no la corrige.
 
@@ -1886,7 +1886,7 @@ El plantado **no debe ocultar**:
 - la playa,
 - ni la lectura clara de las masas rocosas.
 
-### 7. Gestión estética de la luz
+### Gestión estética de la luz
 
 La iluminación se utiliza para:
 
@@ -1902,7 +1902,7 @@ Reglas:
 
 El tono ámbar por taninos es aceptable y buscado, siempre que no anule el contraste roca–arena ni la lectura del valle.
 
-### 8. Fondo del acuario: cobertura y función
+### Fondo del acuario: cobertura y función
 
 #### Decisión adoptada
 
@@ -1930,7 +1930,7 @@ El lateral izquierdo libre:
 
 Esta decisión es **funcional y estética**, no decorativa.
 
-### 9. Relación con el entorno (despacho)
+### Relación con el entorno (despacho)
 
 El acuario se integra en un entorno profesional con luz ambiental variable y presencia tecnológica.
 
@@ -1941,7 +1941,7 @@ Por tanto:
 
 El acuario no compite con el entorno: **lo acompaña**.
 
-### 10. Mantenimiento estético a largo plazo
+### Mantenimiento estético a largo plazo
 
 La estética se mantiene **por sustracción**, no por adición.
 
