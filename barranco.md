@@ -1,7 +1,7 @@
 # Premisas
 
 - **Usuario inexperimentado** en acuarios que **viaja frecuentemente**
-- Acuario de **pequeño volumen** (≈40 L nominales)
+- Acuario de **pequeño volumen** (≈45 L nominales)
 
 Ubicado en un **despacho** en **Santa Cruz de Tenerife**
 - Habitación de aproximadamente **3 × 2,5 m** con muy alta carga tecnológica
@@ -19,7 +19,7 @@ Se **prioriza**, en orden estricto:
 2. **Mínima intervención y mantenimiento**
 3. **Estética**
 
-Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
+Ecosistema **idealmente cerrado** **Low-Tech** (inspiración *Walstad*)
 - Sin CO₂ ni aditivos de uso regular
 - Cada elemento cumple una **función ecológica o estructural clara**. Si no cubre una función faltante o complica, no se introduce.
 - Se prioriza la estabilidad sobre la intervención, con **subcarga deliberada**
@@ -29,7 +29,7 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 - Fauna tolerante a presencia humana constante, movimiento y estímulos visuales
 - Iluminación artificial media, **estable**, con tolerancia a baja y fotoperiodo fijo
 - Filtración **de apoyo inicial**, no prominente; idealmente innecesaria a largo plazo
-- **Tapa obligatoria** para evitar saltos y reducir evaporación; reposición preferentemente **automatizada** para minimizar intervención
+- **Tapa obligatoria** para evitar saltos y reducir evaporación
 - Se prioriza comportamiento **calmado y predecible** frente a espectacularidad
 - Alimentador automático **como mitigación de ausencias**, no pilar del sistema
 - Reposición automática (ATO) **como mitigación de evaporación y ausencias**, no pilar del equilibrio biológico
@@ -62,7 +62,7 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 ╔════╬════════╬════════════════╗
 ║───┬───────────────┐    │█████║
 ║   │               │    │█████║
-║   │     Mesa      │    │█████║
+║▒▒▒│     Mesa      │    │█████║
 ║▒▒▒│    Trabajo    │    │█████║
 ║▒▒▒│               │    │█████║
 ║───┴───────────────┘    │█████║
@@ -221,18 +221,17 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 - **Fauna auxiliar:** reciclaje biológico y control especializado
 - **Microfauna espontánea:** cierre de bucles internos y amortiguación pasiva
 
-**Betta splendens** HMPK macho
+**Betta splendens** HMPK: 1 macho
 - Especie focal y dominante del sistema
 - Regulador comportamental del uso del espacio
 - Principal fuente de carga nitrogenada controlada
 - Introducción final, tras estabilización completa
 - Subtipo HMPK seleccionado por compatibilidad con flujo difuso y hardscape complejo
-- Valida refugios, gradientes de flujo, sombra y uso del estrato superficial
 - Condiciona la disposición del hardscape y la vegetación
 - Activa el ciclo de nutrientes sin sobrecargar el sistema
 - Beneficiario directo de taninos, biofilm y zonas de calma
 
-**Clithon sp.**
+**Clithon sp.**: 1 ejemplar; 2 solo si se observa disponibilidad sostenida de algas duras/biofilm
 - Especialista en control de algas duras incrustantes
 - Biocarga baja y estable
 - Introducción tras ciclado y aparición de biofilm
@@ -241,7 +240,7 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 - Indicador temprano de estabilidad química
 - No reproductivo en agua dulce
 
-**Caridina multidentata**
+**Caridina multidentata**: 3 ejemplares; 5 si el Betta no es agresivo y el sistema es maduro
 - Reciclador biológico activo
 - Función colectiva, no individual
 - Introducción en sistema maduro con refugios consolidados
@@ -329,7 +328,7 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 **Mueble de soporte** (ya existente)
 - Extensión independiente de la mesa de trabajo
 - Tapa de roble alistonado de 90 × 32 cm, con 3,2 cm de grosor y acabada con barniz marino transparente
-- 3 × Pata de pletina de acero de 30 × 71 × 4 cm, con 5 mm de grosor (máx. 200 kg c/u)
+- 3 × Pata de pletina de acero de 30 × 80 × 4 cm, con 5 mm de grosor (máx. 200 kg c/u)
 - 2 × Refuerzo acero 97 × 64 mm contra la tapa en cada pata
 - 2 × Refuerzo acero 97 × 64 mm contra la pared en cada pata
 - Lado largo trasero pegado a pared izquierda del despacho; sin espacio para hardware
@@ -340,7 +339,7 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 
 **Urna**
 - Proporciones compatibles con el mueble y la ergonomía (≈30 cm de fondo)
-- Objetivo: **≈45 × 30 × 30 cm** (≈40 L / ≈10 gal) con **columna de agua ≈25 cm**
+- Objetivo: **≈50 × 30 × 30 cm** (≈45 L / ≈12 gal) con **columna de agua ≈25 cm**
 - Límite físico: no crecer en altura salvo necesidad (prioridad: accesibilidad y mantenimiento desde arriba)
 - Geometría **rectangular limpia**, sin curvaturas ni distorsiones visuales
 - Vidrio ≥5 mm (low-iron recomendado), cantos pulidos y sin refuerzos invasivos
@@ -368,12 +367,12 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 - Diseño **discreto** en el campo visual del usuario
 - Se valora la opción de **instalación colgada** del mueble alto auxiliar y **pletinas/viseras laterales** para evitar deslumbramiento e interferencias con la mesa
 - Subir potencia/bajar altura antes que tocar flora
-- **Ejemplo compatible:** Chihiros B Series (B45), operada al 25–40 %
+- **Ejemplo compatible:** Chihiros B Series (B50), operada al 25–40 %
 
 **Calentador**
 - Elemento de **estabilización térmica**, no herramienta de “subir temperatura”
 - Mantiene **25–26 ºC** de forma constante (tolerancia 24–28 ºC sin oscilaciones rápidas)
-- Potencia ajustada al volumen (≈40 L) y a sala climatizada (≈24 ºC)
+- Potencia ajustada al volumen (≈45 L) y a sala climatizada (≈24 ºC)
 - Control **fiable y repetible**, evitando ciclos cortos agresivos
 - Formato **compacto y discreto**, fácil de ocultar visualmente
 - Compatible con urna **tapada** y **flujo difuso**
@@ -395,16 +394,13 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 - **Ejemplo compatible:** MagTool / MATO-360P
 
 **Alimentador automático**
-- Elemento de **mitigación de ausencias**, no parte del régimen diario
-- Uso previsto para **ausencias de 2–3 días**, no permanente
+- Elemento de **mitigación de ausencias de 2–3 días**, no parte del régimen diario
 - Dosificación **conservadora**, inferior a la ración manual habitual
 - Compatible con **escamas finas o microgránulo** específico para Betta
 - Montaje **exterior sobre la tapa**, sin contacto directo con humedad
 - Posición que evite caída directa sobre el flujo del filtro
 - Programación simple y estable (1 toma/día como máximo)
 - Validado previamente en régimen presencial
-- Retirado del sistema fuera de periodos de ausencia
-- Se usa junto con ATO en ausencias para mantener nivel y minimizar riesgo por evaporación
 - **Ejemplo compatible:** Petbank Automatic Fish Feeder
 
 # Operación
@@ -470,7 +466,6 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 - Alimentación conservadora; ayuno puntual aceptable
 - No se persiguen valores numéricos aislados
 - Las decisiones se basan en **tendencias y señales biológicas**, no en lecturas reactivas
-- El alimentador automático **no forma parte del régimen estable** y se retira fuera de ausencias
 - El ATO se considera parte del régimen estable **solo si** ha sido validado en presencia y el depósito está limitado
 - Los cambios de agua serán mínimos y espaciados en el tiempo, siempre que se perciba degradación del ecosistema
 
@@ -481,14 +476,9 @@ Ecosistema **funcionalmente cerrado** **Low-Tech** (inspiración *Walstad*)
 - El objetivo operativo es **nivel constante**; la química se estabiliza por diseño
 
 **Gestión de ausencias cortas (2–3 días)**
-- El sistema puede operar sin alimentación hasta 48 h sin impacto biológico
-- Para ausencias de 2–3 días se permite el uso de alimentador automático como mitigación
+- El sistema puede operar con alimentación automática hasta 72 h sin impacto biológico
 - El alimentador se programa a **1 toma diaria** con ración inferior a la habitual
-- Nunca se introduce por primera vez justo antes de una ausencia
-- Se valida al menos durante **7 días en presencia** antes de su uso real
-- Antes de salir:
-  - Confirmar depósito del ATO (limitado) y en contención; sin posibilidad de vuelco
-  - Confirmar anti-sifón: salida por encima del agua y tubo fijado (parar la bomba y comprobar que no sigue entrando agua)
-  - Confirmar que la tapa cierra sin holguras anómalas
-- A la vuelta:
-  - Verificar nivel, comportamiento y superficie antes de tocar fotoperiodo, poda o alimentación
+- Confirmar depósito del ATO (limitado) y en contención; sin posibilidad de vuelco
+- Confirmar anti-sifón: salida por encima del agua y tubo fijado (parar la bomba y comprobar que no sigue entrando agua)
+- Confirmar que la tapa cierra sin holguras anómalas
+- A la vuelta verificar nivel, comportamiento y superficie antes de tocar fotoperiodo, poda o alimentación
