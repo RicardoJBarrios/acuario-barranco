@@ -1,484 +1,137 @@
-# Premisas
+# Barranco
 
-- **Usuario inexperimentado** en acuarios que **viaja frecuentemente**
-- Acuario de **pequeño volumen** (≈45 L nominales)
+## Premisas
 
-Ubicado en un **despacho** en **Santa Cruz de Tenerife**
-- Habitación de aproximadamente **3 × 2,5 m** con muy alta carga tecnológica
-- Mueble **independiente** de **90 × 32 cm** adosado a la pared izquierda
-- Mesa de trabajo pegada al mueble; puede moverse horizontal y verticalmente para mantenimiento sin mover el acuario
-- Posición del usuario con respecto al acuario: diagonal frontal izquierda
-- Ventana con cristales esmerilados (luz difusa, nunca directa) a patio interior cerca del lado corto derecho
-- Temperatura automatizada con aire acondicionado (≈24 °C)
-- No hay toma de agua cercana; se usará agua desmineralizada u osmotizada
-- El material eléctrico cercano contará con protección anti-humedad
-- Estilo nórdico industrial (verde laurel, roble, blanco, negro)
+- Despacho muy tecnológico de ≈8 m² con AC y alta automatización en S/C Tenerife (roble, verde, negro y blanco)
+- Acuario de pequeño volumen ≈40-60 L Low-Tech de inspiración Walstad (no purista)
+- Mueble independiente de 32×90 cm que soporta +200 kg
+  - Adyacente a mesa de trabajo elevable (frontal) y a pared (trasera)
+  - Altura libre ≈70 cm hasta estante
+  - Usuario sentado en la diagonal frontal izquierda
+  - Ventana con luz difusa (patio interior) cerca del frontal derecho
+- Usuario sin experiencia que viaja frecuentemente (2-3 días/mes)
+- Todo elemento debe tener una función ecológica, estructural o conductual, priorizando:
+  1. **Bienestar de la fauna y flora:** alta compatibilidad y cadena trófica completa
+  2. **Estabilidad y resiliencia:** mínima intervención y mantenimiento, inercia y subcarga
+  3. **Estética:** subordinada a función; entorno volcánico canario (Wabi-Sabi)
 
-Se **prioriza**, en orden estricto:
-1. **Bienestar de la fauna y flora**
-2. **Mínima intervención y mantenimiento**
-3. **Estética**
+## Infraestructura
 
-Ecosistema **idealmente cerrado** **Low-Tech** (inspiración *Walstad*)
-- Sin CO₂ ni aditivos de uso regular
-- Cada elemento cumple una **función ecológica o estructural clara**. Si no cubre una función faltante o complica, no se introduce.
-- Se prioriza la estabilidad sobre la intervención, con **subcarga deliberada**
-- **Inercia biológica** suficiente para absorber errores pequeños y lentos, redundancia de funciones y **degradación controlada**
-- **Microflora** y **microfauna** como amortiguadores parciales de errores puntuales
-- Capaz de operar **2–3 días sin intervención** sin daños significativos
-- Fauna tolerante a presencia humana constante, movimiento y estímulos visuales
-- Iluminación artificial media, **estable**, con tolerancia a baja y fotoperiodo fijo
-- Filtración **de apoyo inicial**, no prominente; idealmente innecesaria a largo plazo
-- **Tapa obligatoria** para evitar saltos y reducir evaporación
-- Se prioriza comportamiento **calmado y predecible** frente a espectacularidad
-- Alimentador automático **como mitigación de ausencias**, no pilar del sistema
-- Reposición automática (ATO) **como mitigación de evaporación y ausencias**, no pilar del equilibrio biológico
-- Se asume un proceso largo de estabilización (meses) y la entrada por fases de carga biológica
+- 2 masas de roca forman un cauce que desemboca en una playa abierta
+  - Paisaje asimétrico, erosionado, sin ejes claros y jerárquico, con equilibrio áureo
+  - Frontal despejado, exploración lateral y refugio distribuido, sin puntos de dominancia
+  - Circulación hidráulica suave y no direccional
+  - *Roca volcánica:* estructura y base, porosidad muy alta, abrasiva, ligera, inerte
+  - *Dragon stone:* expuesta, porosidad alta, menos abrasiva, peso medio, puede subir KH
+  - *Madera de vid:* biofilm y microfauna, dura, químicamente segura, taninos
+- **Urna:** 60×30×30 cm (54 L, ≈45 L netos), vidrio ≥5 mm, foam ≥5 mm, vinilado esmerilado mate (trasera y derecha), tamaño usable en sistemas futuros
+- **Tapa:** de vidrio o policarbonato, apertura perimetral ≈4–5 mm y derecha más ancha para zona técnica (filtro, cables, ventilador, flora emergida) cerrada con rejilla, zona removible en frontal/izquierdo para alimentación
+- **Sustrato drenante** (bajo masas): roca volcánica en malla; biofiltro pasivo, expansión radicular profunda, soporte microflora y reducción de masa
+- **Sustrato nutritivo:** (excepto playa) mezcla mineral–orgánica baja reactividad; ≈1-2 cm; reserva nutricional estable y lenta, interfaz bioquímica amortiguada
+- **Arena inerte:** (homogéneo) volcánica (≈1–3 mm); ≈2–3 cm; confina sustrato nutritivo, facilita enraizamiento profundo y actividad de la fauna (micro/macro)
+- **Masa dominante:** (trasera/media derecha) referencia de escala; disipación y regulación hidráulica, biofiltro pasivo distribuido, soporte epífitas/musgo/biofilm, refugios, descanso y observación
+- **Valle:** (frontal/derecho hasta cauce) plano abierto vegetal; cobertura vegetal, forrajeo seguro, visibilidad y rutas de escape inmediato
+- **Cauce:** (trasera/media hasta playa) eje longitudinal; distribución hidráulica, espacio de tránsito, exploración y forrajeo 
+- **Masa secundaria:** (trasera izquierda/media) contrapeso estructural menor altura; reconducción hidráulica, biofiltro pasivo, soporte epífitas/musgo/biofilm, refugios, descanso y observación
+- **Playa:** (frontal izquierdo) plano abierto; espacio negativo deliberado, zona limpia de tránsito, reposo y forrajeo
+- **Tronco:** (trasera/media a media/derecha) arco ramificado cercano a superficie; soporte epífitas/musgo/biofilm, refugio blando, descanso y observación
+- **Refugios:** (integrados en hardscape) múltiples planos verticales y oblícuos, no cerrados, no dominables y sin puntos de bloqueo territorial
 
-**Cadena trófica** deseada en el sistema estable:
-- **Productores** primarios
-  - Plantas enraizadas
-  - Plantas flotantes
-  - Microalgas inevitables (diatomeas, velos verdes)
-- **Descomponedores**
-  - Microflora bacteriana
-  - Hongos saprófitos
-  - Biofilm distribuido
-- **Consumidores primarios**
-  - Microfauna espontánea (copepodos, ostrácodos)
-  - Clithon (raspador especializado)
-  - Gambas Amano (recicladores blandos)
-- **Consumidor secundario**
-  - Betta (control comportamental + carga orgánica)
-- **Consumidores terciarios**
-  - No presentes
-- **Desintegradores**
-  - Bacterias nitrificantes y desnitrificantes
-  - Procesos químicos abióticos
+## Flora
 
-*Vista superior esquemática (no a escala)*
-```
-      Ventana
-╔════╬════════╬════════════════╗
-║───┬───────────────┐    │█████║
-║   │               │    │█████║
-║▒▒▒│     Mesa      │    │█████║
-║▒▒▒│    Trabajo    │    │█████║
-║▒▒▒│               │    │█████║
-║───┴───────────────┘    │█████║
-║         ░░░░           │█████║
-║                        │█████║
-╚╬══════╬══════════════════════╝
-  Puerta
+- Plantado funcional de bajo mantenimiento, sin fertilizantes ni CO₂
+  - Amortiguador biológico y químico y productor oxígeno
+  - 20–30 % del primer plano abierto o con tapizante funcional
+- **Fondo:** tallo alto, absorción rápida nutrientes, estabilización temprana y cierre visual posterior
+  - **Limnophila sessiliflora:** (trasera/izquierda) crecimiento rápido, alto consumo NO₃/PO₄, filtro transitorio y amortiguación desequilibrios
+  - **Vallisneria spiralis:** (trasera/derecha) crecimiento lento y estable, filtro radicular sostenido, alta tolerancia y mantenimiento mínimo, estructura vertical persistente
+- **Medio:** masa vegetal estable y lenta, refugio, consumo radicular continuo y transición visual
+  - **Cryptocoryne wendtii 'green':** (transición hardscape/valle y bordes plano abierto) refugio y sombra, amortiguación visual roca/zona abierta, alta estabilidad
+  - **Microsorum pteropus 'trident':** (roca/madera, zonas medias, flujo bajo) crecimiento lento, cierre visual blando, refugio secundario sin competir por sustrato
+  - **Anubias barteri 'nana':** (roca/madera en sombra, lateral refugio, zonas descanso) zona descanso/observación, soporte de biofilm y microfauna, alta longevidad
+- **Suelo:** plantado bajo, estabilización sustrato y transición funcional
+  - **Marsilea hirsuta:** (valle): tapizante lenta y resistente, cobertura permeable que estabiliza el sustrato, soporte de microfauna y tránsito suave
+  - **Sagittaria subulata:** (borde cauce y transición playa): roseta puntual, marcador de borde/transición cauce–valle–playa
+- **Musgo:** soporte de biofilm y microfauna distribuida
+  - **Taxiphyllum barbieri:** (parches pequeños en tronco y cavidades protegidas, flujo bajo) colonización rápida y adaptable, microhábitat invertebrados, retención partículas finas y refuerzo biológico localizado
+- **Superficie:** regulación lumínica, consumo nutrientes y refugio vertical
+  - **Limnobium laevigatum:** (superficie, mitad izquierda) crecimiento rápido, alto consumo de NO₃/PO₄, modulación de luz y raíces colgantes como refugio/forrajeo, control simple por retirada
+- **Emergida:** refuerzo biológico aéreo, sumidero rápido de nutrientes y amortiguador de errores
+  - **Epipremnum aureum:** (trasera/derecha) raíces largas y finas en agua, absorción muy eficiente de NO₃/NH₄⁺, deflector hidráulico, soporte biofilm y microfauna, alta tolerancia a poda, variaciones de luz y ausencias, crecimiento guiable, refuerza resiliencia durante viajes
+- **Microflora:** infraestructura biológica distribuida, se desarrolla por maduración
+  - Comunidades bacterianas nitrificantes y heterótrofas, biofilm mixto, microhongos saprófitos y microalgas controladas (en hardscape, sustrato y superficies vegetales), cierre del ciclo del nitrógeno y amortiguación química del sistema
 
-░░░ Usuario ▒▒▒ Acuario ███ Armario
-```
+## Fauna
 
-# Infraestructura
-
-- Determina la **geometría y distribución** de masas
-- Condiciona el **flujo de agua** como resultado del paisaje
-- Mantiene la **carga biológica pasiva**, asistida por el filtro pero no dependiente
-- El **paisaje** representa un entorno volcánico erosionado de Tenerife de inspiración *Wabi-Sabi*
-- Lectura clara: **masa dominante → recorrido → espacio abierto**
-
-**Sustrato**
-- Sostiene procesos biológicos profundos
-- **Drenante:** biofiltro pasivo, reducción de peso y aporte de volumen al acantilado
-- **Nutritivo:** reserva nutricional estable y soporte del plantado profundo
-- **Arena:** capa inherte para confinar capas inferiores, segura para fauna bentónica
-
-**Roca** de lava volcánica
-- Porosidad funcional como soporte de biología distribuida (bacterias y biofilm)
-- Referencia directa a la geología de la isla
-
-**Madera** de vid
-- Productora de taninos y microhábitat
-- Referencia a la cultura vinitícola local
-
-**Acantilado volcánico dominante** en la parte trasera/media derecha
-- Base estructural para plantas y zonas inaccesibles al Betta
-- Amortiguación de energía hidráulica y canalización de corrientes suaves
-- Generación de gradientes de altura, sombra y masa
-
-**Cauce de barranco** en diagonal hacia el frente
-- Eje longitudinal del paisaje
-- Conector entre zonas altas y espacios abiertos
-- Transición física entre roca, grava y arena
-
-**Masa rocosa secundaria**, en la parte izquierda, subordinada al acantilado
-- Base física para microrefugios de invertebrados
-- Continuidad geológica sin competir por jerarquía visual
-
-**Playa** en el frontal izquierdo
-- Zona químicamente neutra y mecánicamente estable
-- Plano abierto de contraste y espacio negativo
-- Zona de interacción y observación de fauna
-
-**Madera cruzada** entre el acantilado y la playa
-- Soporte estable para epífitas, musgos y biofilm
-- Continuidad física entre masas y zonas abiertas
-- Plano elevado cercano a superficie como zona de descanso
-
-**Refugios** para carga biológica
-- Consecuencia estructural del montaje en varios planos verticales
-- Distribución que favorece autorregulación conductual
-
-**Exclusiones deliberadas**
-- No hardscape modular/reordenable: infraestructura cerrada tras el ciclado
-- No simetrías ni “balance” decorativo: composición asimétrica y jerárquica
-- No cuevas cerradas ni refugios añadidos después: los refugios emergen del montaje
-- No rocas cortantes ni materiales calcáreos/reactivos que alteren KH/pH
-- No bordes rígidos entre materiales: transiciones roca → grava → arena naturales
-- No elementos emergidos: operación bajo urna completamente tapada
-- No rehacer el paisaje: se ajusta operación o carga, no estructura
-
-# Flora
-
-- **Capa biológica activa** del ecosistema; principal motor metabólico
-- Se priorizan **plantas robustas, predecibles y compatibles con low-tech**
-- Al menos un **20–30 % del primer plano** permanece abierto o con tapizante funcional
-
-**Estructura funcional del plantado**
-- **Fondo:** tallo alto para absorción rápida de nutrientes y estabilización temprana (*Limnophila*, *Vallisneria*)
-- **Estrato medio:** masa vegetal estable para refugio y amortiguación visual (*Cryptocoryne*, epífitas)
-- **Epífito puntual:** soporte localizado de biofilm y microfauna sobre madera (*Taxiphyllum barbieri*)
-- **Superficie:** control lumínico, absorción directa de nitratos y refugio vertical (*Limnobium*)
-- **Suelo:** transición roca–arena, estabilización superficial y soporte de microfauna (*Marsilea*, *Sagittaria*)
-
-**Limnophila sessiliflora**
-- Estabilizador biológico primario en fase temprana
-- Consumo rápido de amonio y nitratos
-- Su densidad puede reducirse tras la maduración sin comprometer estabilidad
-
-**Vallisneria spiralis**
-- Estructura vegetal vertical persistente
-- Consumo estable de nutrientes
-- Generación de sombra suave y suavizado del hardscape
-
-**Cryptocoryne wendtii ‘green’**
-- Núcleo vegetal lento–medio y estable
-- Refugio y consumo radicular sostenido
-- Amortiguación visual entre hardscape y zonas abiertas
-
-**Microsorum pteropus ‘Trident’**
-- Epífita estructural lenta
-- Superficie permanente para biofilm y refugio secundario
-
-**Anubias barteri var. nana**
-- Epífita compacta de sombra
-- Refugio estable y soporte de biofilm
-
-**Taxiphyllum barbieri**
--	Soporte localizado de biofilm y microfauna
--	Aplicación puntual sobre madera, no como tapizante
--	Crecimiento lento, sin demanda técnica
-
-**Marsilea hirsuta**
-- Tapizante funcional de transición
-- Estabilización superficial del sustrato y soporte de microfauna
-
-**Sagittaria subulata**
-- Roseta de borde
-- Marcador ecológico y visual de transición roca–arena
-
-**Limnobium laevigatum**
-- Regulador dinámico de superficie
-- Modulación lumínica y absorción directa de nutrientes
-- Refugio vertical y modulador comportamental del Betta
-
-**Microflora** (infraestructura biológica distribuida)
-- Emergen de forma natural con diseño y maduración
-- Biología nitrificante en superficies oxigenadas
-- Microambientes facultativos en zonas protegidas
-- Biofilm mixto como base trófica y estabilizador químico
-- Microhongos saprófitos y microalgas controladas como parte normal del sistema
-- Microeucariotas del sustrato para reciclaje fino
-
-**Exclusiones deliberadas**
-- No plantas seleccionadas por impacto estético
-- No especies de alta demanda técnica
-- No tapizantes cerrados de alto mantenimiento
-- No introducir especies sin rol ecológico faltante
-- No plantado sin estratos funcionales
-- No poda estética agresiva ni limpieza obsesiva
-- No cambios reactivos de plantas para corregir algas o valores
-- No compite visualmente con la masa dominante ni rompe la lectura del cauce
-- No musgos tapizantes extensivos ni musgos de alto mantenimiento
-
-# Fauna
-
-- **Capa biológica deliberada** del ecosistema; su comportamiento valida el diseño completo
-- La fauna se introduce **solo cuando el sistema ya es estable y autosostenible**
-- Cada especie cumple un **rol funcional claro, específico y no redundante**
-- El bienestar **comportamental y fisiológico** tiene prioridad absoluta sobre funciones correctivas
-- El sistema se mantiene dentro de una **ventana común de confort**
-- La fauna **no se utiliza para corregir errores de diseño**: entra en un sistema ya resuelto
-- La composición seleccionada es compatible con **ausencias cortas (2–3 días)** sin alimentación ni intervención
-
-**Estructura funcional de la fauna**
-- **Especie focal:** regulador comportamental y principal generador de carga orgánica
-- **Fauna auxiliar:** reciclaje biológico y control especializado
-- **Microfauna espontánea:** cierre de bucles internos y amortiguación pasiva
-
-**Betta splendens** HMPK: 1 macho
-- Especie focal y dominante del sistema
-- Regulador comportamental del uso del espacio
-- Principal fuente de carga nitrogenada controlada
-- Introducción final, tras estabilización completa
-- Subtipo HMPK seleccionado por compatibilidad con flujo difuso y hardscape complejo
-- Condiciona la disposición del hardscape y la vegetación
-- Activa el ciclo de nutrientes sin sobrecargar el sistema
-- Beneficiario directo de taninos, biofilm y zonas de calma
-
-**Clithon sp.**: 1 ejemplar; 2 solo si se observa disponibilidad sostenida de algas duras/biofilm
-- Especialista en control de algas duras incrustantes
-- Biocarga baja y estable
-- Introducción tras ciclado y aparición de biofilm
-- Eliminación constante de algas duras en vidrio, roca y madera
-- Complemento funcional a plantas y gambas
-- Indicador temprano de estabilidad química
-- No reproductivo en agua dulce
-
-**Caridina multidentata**: 3 ejemplares; 5 si el Betta no es agresivo y el sistema es maduro
-- Reciclador biológico activo
-- Función colectiva, no individual
-- Introducción en sistema maduro con refugios consolidados
-- Consumo de algas filamentosas y biofilm blando
-- Reciclaje de restos orgánicos recientes
-- Fragmentación de detrito para procesamiento bacteriano
-- Activación del estrato bentónico y hardscape
-- Sinergia directa con microflora
-- Su permanencia está subordinada al comportamniento del Betta
-
-**Microfauna**
-- No se introduce ni se gestiona activamente
-- Emerge con la maduración del sistema
-- Indicador de estabilidad biológica real
-- Reciclaje temprano de materia orgánica
-- Transferencia de energía desde biofilm y bacterias
-- Amortiguación de pequeños excesos de carga
-- Estímulo conductual ocasional para el Betta
-
-**Exclusiones deliberadas**
-- No peces adicionales ni fauna “de relleno”
-- No especies reproductivas en agua dulce
-- No fauna de alta demanda técnica o química
-- No organismos que requieran control activo
-- No introducir animales para corregir algas o valores
-- No fauna incompatible con Betta territorial
-- No ajustes reactivos de fauna ante problemas estructurales
+- Subcarga biológica por diseño, centrado en el betta
+- **Consumidor secundario (habitante principal):** control conductual, carga orgánica y eje etológico del sistema
+  - **Betta splendens** (macho, ejemplar único): control etológico de columna de agua (media y superficie),  carga orgánica moderada, circulación suave, refugios distribuidos, sin dominancias rígidas, zonas de descanso cercanas a superficie, refugio blando y visibilidad controlada
+- **Consumidores primarios (microfauna y macrofauna auxiliar):** reciclaje orgánico, control de biofilm y soporte trófico
+  - **Caracol Clithon sp.** (1–2 ejemplares): raspador especializado de biofilm y algas duras, muy baja carga orgánica, nula reproducción en agua dulce, regulador pasivo
+  - **Gamba Caridina multidentata (Amano)** (3–4 ejemplares): consumidor oportunista de detrito blando, biofilm y restos vegetales, refuerza reciclaje orgánico, compatible con betta si refugios abundantes y tamaño
+- **Microfauna espontánea:** base trófica distribuida y estabilización biológica
+  - **Copépodos, ostrácodos y otros microcrustáceos:** se desarrollan por maduración del sistema, fuente ocasional de alimento vivo y estímulo conductual, indicadores de estabilidad y baja toxicidad
+  - **Planarias y otros organismos oportunistas:** tolerables en baja densidad, control indirecto mediante equilibrio biológico y no por erradicación activa
+- **Exclusiones deliberadas:**
+  - Peces de cardumen o territoriales secundarios: evitar competencia y estrés
+  - Caracoles de alta reproducción (Physa, Planorbarius, Melanoides): evitar plaga y carga
+  - Gambas enanas delicadas o de alto valor ornamental: evitar alta carga, predación y estrés
+  - Fauna bentónica excavadora: altera la estratificación del sustrato
 
 # Química
 
-- **Propiedad emergente del sistema**, no una capa de control activa
-- Se regula de forma **pasiva y distribuida**, integrada desde el diseño
-- La estabilidad resulta de la interacción entre **infraestructura, flora, microflora y operación**
-- Su efecto se observa como **tendencias sostenidas**, no como acciones visibles
-- **Amplifica la biología**: no la sustituye ni la corrige; se sostiene por diseño y solo se actúa ante **tendencias sostenidas con señal biológica clara**
+- Ventana química operativa común, estable (no precisa) y con regulación pasiva y distribuida, sin aditivos rutinarios
+- Ante desviaciones, se prioriza reducción de carga y ajustes pasivos, no correcciones químicas agresivas
+- **Agua:** base y reposición de osmosis remineralizada, elimina inestabilidad y dureza del agua local
+- **Temperatura:** 25–26 ºC (24–28 ºC), de clima y calentador, confort del betta y estabilidad biológica
+- **pH:** 6,8–7,0 (6,8–7,5), de por taninos, sustrato y biología, reducción patógenos y estabilidad NO₂/NO₃
+- **GH:** 6–10 dGH (6–12 dGH), de remineralización, bienestar del caracol, osmorregulación fauna
+- **KH:** 3–5 dKH (3–6 dKH), de agua y hardscape, evita caídas bruscas de pH
+- **NO₂:** 0 mg/L, por flora, evita toxicidad
+- **NO₃:** 5–15 mg/L (0–20 mg/L), por flora y subcarga, nutriente para flora
+- **DOC:** moderada, de taninos, biofilm, detrito fino y exudados vegetales, amortiguación química, soporte microbiano y protección biológica leve
+- **Taninos y ácidos húmicos:** moderados, de madera/hoja seca puntual, ligera acidificación, efecto antibacteriano y antifúngico leve, reducción de estrés y refuerzo etológico del betta
+- **Oxigenación y CO₂:** de intercambio superficial y fotosíntesis, sin CO₂ externo, equilibrio gas–agua estable
+- **Flujo:** lento–difuso, de hardscape, evita estrés, preserva biofilm/microfauna y mantiene química homogénea sin zonas muertas
 
-**Taninos**
-- Introducidos indirectamente por madera y materia orgánica estable
-- Nivel bajo–moderado; agua ligeramente tintada
-- Modulación fisiológica y comportamental del Betta
-- Reducción de estrés basal y agresividad
-- Ligero efecto antibacteriano sin interferir con nitrificación
-- Compatibles con *Caridina multidentata* y *Clithon* sp. en la ventana definida
+## Hardware
 
-**Ácidos húmicos y fúlvicos**
-- Emergen de madera, detrito estabilizado y biofilm activo
-- Amortiguación fina y distribuida del entorno químico
-- Quelación ligera de metales y mejora de micronutrientes para plantas
-- Suavizan microfluctuaciones de pH sin rigidizar el sistema
-- Refuerzan estabilidad a largo plazo en low-tech sin CO₂
+- Acompaña a diseño para aumentar robustez y tolerancia al error, no son pilares
+- **Filtro:** (trasera/derecha) de mochila, caudal medio bajo y difuso, carga mecánica y biológica
+- **Calefactor:** (trasera/derecha/fondo) sumergible con termostato 50W
+- **Iluminación:** (60 cm, suspendida) LED blanca de espectro completo para low-tech, dimmer y ciclos día/noche con rampa
+- **Puntuales:** ventilador (reducción temperatura), oxigenador (hipoxia nocturna), alimentador automático (ausencias)
+- **Opcionales:** ATO (si alta evaporación) 
 
-**Carga orgánica disuelta (DOC)**
-- Presencia funcional y controlada, no eliminada activamente
-- Fuente energética para bacterias heterótrofas beneficiosas
-- Procesada por plantas, biofilm y filtración orientada a biología
-- Evita tanto acumulación como agotamiento extremo de nutrientes
-- Resultado: agua biológicamente activa, no estéril
+## Montaje
 
-**Ventana química operativa común**
-- Resultado de la intersección funcional de toda la biología; define rangos **interpretativos**, no objetivos a forzar
-- **Temperatura:** 25–26 ºC (tolerable 24–28 ºC)
-- **pH:** 6,8–7,0 (tolerable 6,8–7,5)
-- **GH:** 6–10 dGH (tolerable 6–12 dGH)
-- **KH:** 3–5 dKH (tolerable 3–6 dKH)
-- **NO₂:** 0 mg/L
-- **NO₃:** 5–15 mg/L (tolerable 0–20 mg/L)
-- **Oxigenación:** moderada
-- **Flujo:** lento–difuso
+1. Montaje de hardscape y flora
+2. Maduración
+3. Introducción del caracol y estabilización
+4. Introducción de gambas y estabilización
+5. Introducción del betta
 
-**Compatibilidad sistémica**
-- Ningún grupo biológico opera en el límite de su tolerancia
-- Betta, invertebrados, flora, microflora y microfauna comparten ventana estable
-- La química favorece comportamiento natural y metabolismo no acelerado
+## Mantenimiento esperado en sistema estable
 
-**Límites blandos**
-- Desviaciones puntuales son aceptables sin señales biológicas
-- Los valores aislados no gatillan acción: manda la **señal biológica**
+- Alimentación externa solo del betta (evitar sobrealimentación, 1 día de ayuno)
+- Fauna auxiliar y microfauna se sostienen por el propio sistema
+- Cambios de agua mínimos y espaciados (≈15% mensuales o por necesidad)
+- Limpieza/sifonado mínimo y selectivo sin remover sustrato (permitir ciclo natural)
+- Poda controlada y gradual (sobre todo *Limnophila*, que irá reduciéndose con la maduración)
 
-**Remineralización del agua de partida**
-- El sistema parte de agua desmineralizada u osmotizada, remineralizada solo antes del llenado para situar GH y KH en la ventana operativa, con especial cuidado con las necesidades del clithon.
--	La remineralización es una condición inicial del medio, no una herramienta de ajuste continuo
+```text
+      VENTANA
+╔════╬═══════╬═════════════════╗
+║───┬───────────────┐    │  A  ║
+║   │               │    │  R  ║
+║███│    MESA DE    │    │  M  ║
+║███│    TRABAJO    │    │  A  ║
+║███│               │    │  R  ║
+║───┴───────────────┘    │  I  ║
+║         SILLA          │  O  ║
+║                        │  S  ║
+╚╬══════╬══════════════════════╝
+  PUERTA
 
-# Hardware
-
-**Mueble de soporte** (ya existente)
-- Extensión independiente de la mesa de trabajo
-- Tapa de roble alistonado de 90 × 32 cm, con 3,2 cm de grosor y acabada con barniz marino transparente
-- 3 × Pata de pletina de acero de 30 × 80 × 4 cm, con 5 mm de grosor (máx. 200 kg c/u)
-- 2 × Refuerzo acero 97 × 64 mm contra la tapa en cada pata
-- 2 × Refuerzo acero 97 × 64 mm contra la pared en cada pata
-- Lado largo trasero pegado a pared izquierda del despacho; sin espacio para hardware
-- Lado largo delantero pegado a mesa de trabajo, que puede separarse y elevarse
-- Lado corto izquierdo libre; ≈1 m hasta la puerta de entrada
-- Lado corto derecho libre; ≈30 cm hasta pared
-- Mueble auxiliar de 22 cm de fondo colgando a ≈60 cm de la tapa
-
-**Urna**
-- Proporciones compatibles con el mueble y la ergonomía (≈30 cm de fondo)
-- Objetivo: **≈50 × 30 × 30 cm** (≈45 L / ≈12 gal) con **columna de agua ≈25 cm**
-- Límite físico: no crecer en altura salvo necesidad (prioridad: accesibilidad y mantenimiento desde arriba)
-- Geometría **rectangular limpia**, sin curvaturas ni distorsiones visuales
-- Vidrio ≥5 mm (low-iron recomendado), cantos pulidos y sin refuerzos invasivos
-- **Tapa completa** con holgura controlada y huecos mínimos para filtro, cables y reposición
-- Base con **foam/neopreno ≥5 mm** para nivelado, protección y absorción de vibraciones
-- Vinilado negro mate en trasera y lateral corto derecho para reducir estímulos visuales, ocultar hardware y reforzar la lectura del paisaje; frontal y lateral izquierdo se mantienen transparentes.
-
-**Filtro**
-- Soporte **biológico auxiliar**, no sistema correctivo
-- Operación **submáxima** con **flujo lento–difuso** (≈2–4×/h)
-- Caudal **regulable, estable y silencioso**
-- Filtración mecánica **ligera**, sin pulido agresivo
-- Salida **difusa** (cascada / spray bar / difusor), sin chorros dominantes
-- Diseño **compacto** y compatible con urna **tapada** (cables y mangueras sin forzar la tapa)
-- Mantenimiento **parcial/conservador** (prefiltro o limpieza por etapas), sin resets biológicos
-- Debe situarse en el lado derecho, cerca de la trasera
-- **Ejemplos compatibles:** Blau FM60, Fluval AC20
-
-**Iluminación**
-- Fuente de **energía biológica**, no herramienta estética ni de corrección
-- Sostiene plantado low-tech sin CO₂ ni abonado líquido regular (≈10–30 lm/L reales)
-- **Distribución homogénea** del haz, sin hotspots ni contrastes duros
-- Fotoperiodo **estable y predecible**, con rampas suaves si están disponibles
-- Compatible con **tapa de vidrio** y tolerante a condensación (la tapa reduce PAR; se compensa con potencia o bajando altura)
-- Diseño **discreto** en el campo visual del usuario
-- Se valora la opción de **instalación colgada** del mueble alto auxiliar y **pletinas/viseras laterales** para evitar deslumbramiento e interferencias con la mesa
-- Subir potencia/bajar altura antes que tocar flora
-- **Ejemplo compatible:** Chihiros B Series (B50), operada al 25–40 %
-
-**Calentador**
-- Elemento de **estabilización térmica**, no herramienta de “subir temperatura”
-- Mantiene **25–26 ºC** de forma constante (tolerancia 24–28 ºC sin oscilaciones rápidas)
-- Potencia ajustada al volumen (≈45 L) y a sala climatizada (≈24 ºC)
-- Control **fiable y repetible**, evitando ciclos cortos agresivos
-- Formato **compacto y discreto**, fácil de ocultar visualmente
-- Compatible con urna **tapada** y **flujo difuso**
-- Protección frente a funcionamiento en seco y sobretemperatura (si está disponible)
-- Debe situarse en el lado derecho, cerca del flujo de entrada del filtro
-- Cableado y orientación que no interfieran con tapa ni gestión de cables
-- **Ejemplo compatible:** Hygger Mini 50W (set ≈26 ºC)
-
-**Sistema de reposición automática (ATO)**
-- Estabiliza **nivel** y reduce intervención; no corrige la química
-- Sensor **óptico dual** + corte por sobrellenado y por depósito vacío
-- Reposición **solo** con agua desmineralizada/osmotizada (sin remineralizar)
-- Depósito **limitado** (≈2–3 L) como fail-safe físico, colocado sobre **bandeja/recipiente de contención**
-- Ubicación del depósito y del controlador **fuera de la vertical** del acuario y de electrónica crítica; cableado con **bucle antigoteo**
-- Tubería con fijación mecánica (soporte/clip) y recorrido que evite tirones o desconexión
-- Descarga en **lateral derecho**, cerca de la entrada del filtro, con el extremo de salida **por encima de la línea de agua** (anti-sifón)
-- Válvula antirretorno como ayuda, pero el anti-sifón se garantiza por **geometría** (salida alta) y fijación
-- Funcionamiento silencioso y discreto, compatible con urna **tapada**
-- **Ejemplo compatible:** MagTool / MATO-360P
-
-**Alimentador automático**
-- Elemento de **mitigación de ausencias de 2–3 días**, no parte del régimen diario
-- Dosificación **conservadora**, inferior a la ración manual habitual
-- Compatible con **escamas finas o microgránulo** específico para Betta
-- Montaje **exterior sobre la tapa**, sin contacto directo con humedad
-- Posición que evite caída directa sobre el flujo del filtro
-- Programación simple y estable (1 toma/día como máximo)
-- Validado previamente en régimen presencial
-- **Ejemplo compatible:** Petbank Automatic Fish Feeder
-
-# Operación
-
-- El sistema **se estabiliza por fases**, no por ajustes
-- No se introduce carga biológica si la fase anterior no está consolidada
-- La intervención es **mínima, lenta y siempre reversible**
-- Ante duda entre intervenir o esperar, **se espera**
-- La señal biológica tiene prioridad sobre valores aislados
-
-**Fase 0: Preparación del medio**
-- Preparación de **agua desmineralizada u osmotizada**, remineralizada **solo una vez** para situar GH y KH en la ventana operativa
-- Definición del **nivel objetivo** y verificación de tapa, pasacables, vinilos y protección eléctrica básica frente a humedad
-- Preparación del **depósito del ATO** con agua desmineralizada/osmotizada **sin remineralizar** (volumen deliberadamente limitado como fail-safe)
-- No se introduce ningún organismo vivo
-- **Estado de salida:** medio físico y químico listo, logística de reposición cerrada
-
-**Fase 1: Montaje estructural**
-- Montaje completo de sustrato, roca y madera según diseño definitivo
-- El hardscape queda **cerrado**: no se reordena tras esta fase
-- Llenado lento para preservar capas y geometría
-- Activación de filtro en caudal bajo, calentador a 25–26 ºC, iluminación a potencia reducida
-- Instalación del **ATO** en lateral derecho y prueba de seguridad (corte por sensor alto, válvula antirretorno, tubo fijado)
-- **No se planta ni se introduce fauna**
-- **Estado de salida:** estructura estable y hardware operativo
-
-**Fase 2: Plantado y arranque biológico**
-- Plantado completo según estratos funcionales definidos
-- Introducción de flotantes desde el inicio
-- Iluminación estable, sin variaciones diarias
-- Filtro operando en régimen submáximo
-- ATO activo para sostener **nivel constante** (sin perseguir números)
-- No se poda, no se limpia y no se ajusta el paisaje
-- Se asume aparición de biofilm, turbidez leve o algas tempranas como parte del proceso
-- **Estado de salida:** inicio efectivo de colonización biológica
-
-**Fase 3: Maduración sin fauna**
-- Sistema operando sin carga animal
-- Se mantiene iluminación constante, flujo lento–difuso y temperatura estable
-- Intervención limitada a evitar bloqueos mecánicos evidentes
-- No se introducen animales “de prueba”
-- **Indicadores de consolidación:**
-  - Biofilm estable en superficies
-  - Crecimiento vegetal predecible
-  - Microvida espontánea visible
-  - Ausencia de picos químicos sostenidos
-- **Estado de salida:** sistema biológicamente amortiguado
-
-**Fase 4: Introducción de fauna auxiliar (escalonada)**
-- Introducción gradual de fauna auxiliar, nunca simultánea
-- Observación sin ajustes durante al menos dos semanas
-- La fauna **no se utiliza para corregir desequilibrios**
-- **Estado de salida:** reciclaje biológico activo sin estrés sistémico
-
-**Fase 5: Introducción de la especie focal**
-- Introducción del Betta **solo tras estabilidad sostenida**
-- No se modifica estructura, plantado ni flujo tras su entrada
-- El comportamiento del animal valida el diseño completo
-- **Estado final:** sistema en régimen estable
-
-**Operación en régimen estable**
-- Capaz de operar **2–3 días sin intervención**
-- Alimentación conservadora; ayuno puntual aceptable
-- No se persiguen valores numéricos aislados
-- Las decisiones se basan en **tendencias y señales biológicas**, no en lecturas reactivas
-- El ATO se considera parte del régimen estable **solo si** ha sido validado en presencia y el depósito está limitado
-- Los cambios de agua serán mínimos y espaciados en el tiempo, siempre que se perciba degradación del ecosistema
-
-**Reposición por evaporación (con ATO)**
-- El ATO repone **exclusivamente** agua desmineralizada/osmotizada (sin remineralizar), evitando concentración progresiva de GH/KH/TDS por evaporación
-- Depósito **limitado** (≈2–3 L) y en **contención** para acotar el peor caso ante fallo
-- Salida del ATO **fijada** en lateral derecho; extremo de descarga **siempre sobre la línea de agua** para impedir sifón al parar la bomba
-- El objetivo operativo es **nivel constante**; la química se estabiliza por diseño
-
-**Gestión de ausencias cortas (2–3 días)**
-- El sistema puede operar con alimentación automática hasta 72 h sin impacto biológico
-- El alimentador se programa a **1 toma diaria** con ración inferior a la habitual
-- Confirmar depósito del ATO (limitado) y en contención; sin posibilidad de vuelco
-- Confirmar anti-sifón: salida por encima del agua y tubo fijado (parar la bomba y comprobar que no sigue entrando agua)
-- Confirmar que la tapa cierra sin holguras anómalas
-- A la vuelta verificar nivel, comportamiento y superficie antes de tocar fotoperiodo, poda o alimentación
+███ ACUARIO
+```
