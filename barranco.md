@@ -27,12 +27,12 @@
 - **Urna:** 60×30×30 cm (54 L, ≈45 L netos), vidrio ≥5 mm, foam ≥5 mm, vinilado esmerilado mate (trasera y derecha), tamaño usable en sistemas futuros
 - **Tapa:** de vidrio o policarbonato, apertura perimetral ≈4–5 mm y derecha más ancha para zona técnica (filtro, cables, ventilador, flora emergida) cerrada con rejilla, zona removible en frontal/izquierdo para alimentación
 - **Sustrato drenante** (bajo masas): roca volcánica en malla; biofiltro pasivo, expansión radicular profunda, soporte microflora y reducción de masa
+- **Masa dominante:** (trasera/media derecha) referencia de escala; disipación y regulación hidráulica, biofiltro pasivo distribuido, soporte epífitas/musgo/biofilm, refugios, descanso y observación
+- **Masa secundaria:** (trasera izquierda/media) contrapeso estructural menor altura; reconducción hidráulica, biofiltro pasivo, soporte epífitas/musgo/biofilm, refugios, descanso y observación
 - **Sustrato nutritivo:** (excepto playa) mezcla mineral–orgánica baja reactividad; ≈1-2 cm; reserva nutricional estable y lenta, interfaz bioquímica amortiguada
 - **Arena inerte:** (homogéneo) volcánica (≈1–3 mm); ≈2–3 cm; confina sustrato nutritivo, facilita enraizamiento profundo y actividad de la fauna (micro/macro)
-- **Masa dominante:** (trasera/media derecha) referencia de escala; disipación y regulación hidráulica, biofiltro pasivo distribuido, soporte epífitas/musgo/biofilm, refugios, descanso y observación
 - **Valle:** (frontal/derecho hasta cauce) plano abierto vegetal; cobertura vegetal, forrajeo seguro, visibilidad y rutas de escape inmediato
 - **Cauce:** (trasera/media hasta playa) eje longitudinal; distribución hidráulica, espacio de tránsito, exploración y forrajeo 
-- **Masa secundaria:** (trasera izquierda/media) contrapeso estructural menor altura; reconducción hidráulica, biofiltro pasivo, soporte epífitas/musgo/biofilm, refugios, descanso y observación
 - **Playa:** (frontal izquierdo) plano abierto; espacio negativo deliberado, zona limpia de tránsito, reposo y forrajeo
 - **Tronco:** (trasera/media a media/derecha) arco ramificado cercano a superficie; soporte epífitas/musgo/biofilm, refugio blando, descanso y observación
 - **Refugios:** (integrados en hardscape) múltiples planos verticales y oblícuos, no cerrados, no dominables y sin puntos de bloqueo territorial
@@ -63,10 +63,10 @@
 
 ## Fauna
 
-- Subcarga biológica por diseño, centrado en el betta
-- **Consumidor secundario (habitante principal):** control conductual, carga orgánica y eje etológico del sistema
+- Subcarga biológica por diseño, centrada en el betta
+- **Consumidor secundario:** control conductual, carga orgánica y eje etológico del sistema
   - **Betta splendens** (macho, ejemplar único): control etológico de columna de agua (media y superficie),  carga orgánica moderada, circulación suave, refugios distribuidos, sin dominancias rígidas, zonas de descanso cercanas a superficie, refugio blando y visibilidad controlada
-- **Consumidores primarios (microfauna y macrofauna auxiliar):** reciclaje orgánico, control de biofilm y soporte trófico
+- **Consumidores primarios:** reciclaje orgánico, control de biofilm y soporte trófico
   - **Caracol Clithon sp.** (1–2 ejemplares): raspador especializado de biofilm y algas duras, muy baja carga orgánica, nula reproducción en agua dulce, regulador pasivo
   - **Gamba Caridina multidentata (Amano)** (3–4 ejemplares): consumidor oportunista de detrito blando, biofilm y restos vegetales, refuerza reciclaje orgánico, compatible con betta si refugios abundantes y tamaño
 - **Microfauna espontánea:** base trófica distribuida y estabilización biológica
