@@ -65,7 +65,7 @@
 
 - Subcarga biológica por diseño, centrada en el betta
 - **Consumidor secundario:** control conductual, carga orgánica y eje etológico del sistema
-  - **Betta splendens** (macho, ejemplar único): control etológico de columna de agua (media y superficie),  carga orgánica moderada, circulación suave, refugios distribuidos, sin dominancias rígidas, zonas de descanso cercanas a superficie, refugio blando y visibilidad controlada
+  - **Betta splendens PK/HMPK** (macho joven, ejemplar único): control etológico de columna de agua (media y superficie),  carga orgánica moderada, circulación suave, refugios distribuidos, sin dominancias rígidas, zonas de descanso cercanas a superficie, refugio blando y visibilidad controlada
 - **Consumidores primarios:** reciclaje orgánico, control de biofilm y soporte trófico
   - **Caracol Clithon sp.** (1–2 ejemplares): raspador especializado de biofilm y algas duras, muy baja carga orgánica, nula reproducción en agua dulce, regulador pasivo
   - **Gamba Caridina multidentata (Amano)** (3–4 ejemplares): consumidor oportunista de detrito blando, biofilm y restos vegetales, refuerza reciclaje orgánico, compatible con betta si refugios abundantes y tamaño
@@ -97,7 +97,7 @@
 ## Hardware
 
 - Acompaña a diseño para aumentar robustez y tolerancia al error, no son pilares
-- **Filtro:** (trasera/derecha) de mochila, caudal medio bajo y difuso, carga mecánica y biológica
+- **Filtro:** (trasera/derecha) de mochila, caudal medio bajo y difuso, carga mecánica y biológica, prefiltro esponja
 - **Calefactor:** (trasera/derecha/fondo) sumergible con termostato 50W
 - **Iluminación:** (60 cm, suspendida) LED blanca de espectro completo para low-tech, dimmer y ciclos día/noche con rampa
 - **Puntuales:** ventilador (reducción temperatura), oxigenador (hipoxia nocturna), alimentador automático (ausencias)
