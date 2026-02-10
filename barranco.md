@@ -15,6 +15,23 @@
   2. **Estabilidad y resiliencia:** mínima intervención y mantenimiento, inercia y subcarga
   3. **Estética:** subordinada a función; entorno volcánico canario (Wabi-Sabi)
 
+```text
+      VENTANA
+╔════╬═══════╬═════════════════╗
+║───┬───────────────┐    │  A  ║
+║   │               │    │  R  ║
+║███│    MESA DE    │    │  M  ║
+║███│    TRABAJO    │    │  A  ║
+║███│               │    │  R  ║
+║───┴───────────────┘    │  I  ║
+║         SILLA          │  O  ║
+║                        │  S  ║
+╚╬══════╬══════════════════════╝
+  PUERTA
+
+███ ACUARIO
+```
+
 ## Infraestructura
 
 - 2 masas de roca forman un cauce que desemboca en una playa abierta
@@ -97,8 +114,8 @@
 ## Hardware
 
 - Acompaña a diseño para aumentar robustez y tolerancia al error, no son pilares
-- **Filtro:** (trasera/derecha) de mochila, caudal medio bajo y difuso, carga mecánica y biológica, prefiltro esponja
-- **Calefactor:** (trasera/derecha/fondo) sumergible con termostato 50W
+- **Filtro:** (derecha/atrás) de mochila, caudal medio bajo y difuso, carga mecánica y biológica, caudal regulable (dispersado por masa y emergida)
+- **Calefactor:** (lateral entrada filtro) con termostato 50W
 - **Iluminación:** (60 cm, suspendida) LED blanca de espectro completo para low-tech, dimmer y ciclos día/noche con rampa
 - **Puntuales:** ventilador (reducción temperatura), oxigenador (hipoxia nocturna), alimentador automático (ausencias)
 - **Opcionales:** ATO (si alta evaporación) 
@@ -118,20 +135,3 @@
 - Cambios de agua mínimos y espaciados (≈15% mensuales o por necesidad)
 - Limpieza/sifonado mínimo y selectivo sin remover sustrato (permitir ciclo natural)
 - Poda controlada y gradual (sobre todo *Limnophila*, que irá reduciéndose con la maduración)
-
-```text
-      VENTANA
-╔════╬═══════╬═════════════════╗
-║───┬───────────────┐    │  A  ║
-║   │               │    │  R  ║
-║███│    MESA DE    │    │  M  ║
-║███│    TRABAJO    │    │  A  ║
-║███│               │    │  R  ║
-║───┴───────────────┘    │  I  ║
-║         SILLA          │  O  ║
-║                        │  S  ║
-╚╬══════╬══════════════════════╝
-  PUERTA
-
-███ ACUARIO
-```
