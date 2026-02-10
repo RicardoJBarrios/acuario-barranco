@@ -135,3 +135,5 @@
 - Cambios de agua mínimos y espaciados (≈15% mensuales o por necesidad)
 - Limpieza/sifonado mínimo y selectivo sin remover sustrato (permitir ciclo natural)
 - Poda controlada y gradual (sobre todo *Limnophila*, que irá reduciéndose con la maduración)
+
+![Imagen generada por IA de Barranco](./ia.png)
