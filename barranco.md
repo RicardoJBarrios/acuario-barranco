@@ -116,7 +116,7 @@
 - Acompaña a diseño para aumentar robustez y tolerancia al error, no son pilares
 - **Filtro:** (derecha/atrás) de mochila, caudal medio bajo y difuso, carga mecánica y biológica, caudal regulable (dispersado por masa y emergida)
 - **Calefactor:** (lateral entrada filtro) con termostato 50W
-- **Iluminación:** (60 cm, suspendida) LED blanca de espectro completo para low-tech, dimmer y ciclos día/noche con rampa
+- **Iluminación:** (60 cm) LED blanca de espectro completo para low-tech, cable suspensión, shades, dimmer, y ciclos día/noche con rampa
 - **Puntuales:** ventilador (reducción temperatura), oxigenador (hipoxia nocturna), alimentador automático (ausencias)
 - **Opcionales:** ATO (si alta evaporación) 
 
