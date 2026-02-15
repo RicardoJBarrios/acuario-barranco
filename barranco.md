@@ -89,7 +89,7 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
   - **Betta splendens PK/HMPK** (1M): control etológico columna de agua (media y superficie),  carga orgánica moderada, circulación suave, refugios distribuidos, sin dominancias rígidas, zonas de descanso cercanas a superficie, refugio blando y visibilidad controlada
 - **Consumidores primarios:** reciclaje orgánico, control de biofilm y soporte trófico
   - **Caracol Clithon sp.** (1/2): raspador especializado de biofilm y algas duras, muy baja carga orgánica, no reproduce en agua dulce, regulador pasivo
-  - **Gamba Caridina multidentata** (2M y 3H): consumidor oportunista de detrito blando, biofilm y restos vegetales, refuerza reciclaje orgánico, no reproduce en agua dulce, se asume posible depredación del betta, mitiganda con refugios abundantes, tamaño e introducción y colonización previa
+  - **Gamba Caridina multidentata** (2M y 3H): consumidor oportunista de detrito blando, biofilm y restos vegetales, refuerza reciclaje orgánico, no reproduce en agua dulce. Se asume posible depredación del betta, mitigada con refugios abundantes, tamaño e introducción y colonización previa
 - **Microfauna espontánea:** base trófica distribuida y estabilización biológica
   - **Copépodos, ostrácodos y otros microcrustáceos:** se desarrollan por maduración del sistema, fuente ocasional de alimento vivo y estímulo conductual, indicadores de estabilidad y baja toxicidad
   - **Planarias y otros organismos oportunistas:** tolerables en baja densidad, control indirecto mediante equilibrio biológico y no por erradicación activa. Su presencia ocasional no indica fallo del sistema
