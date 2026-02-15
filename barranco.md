@@ -83,7 +83,7 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
 
 ## Fauna
 
-- Subcarga biológica por diseño, centrada en el betta
+- Subcarga biológica por diseño, centrada en el betta. 
 
 - **Consumidor secundario:** control conductual, carga orgánica y eje etológico del sistema
   - **Betta splendens PK/HMPK** (1M): control etológico columna de agua (media y superficie),  carga orgánica moderada, circulación suave, refugios distribuidos, sin dominancias rígidas, zonas de descanso cercanas a superficie, refugio blando y visibilidad controlada
@@ -177,5 +177,14 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
 
 ---
 
+## Inspiraciones
+
+- [JBL](https://www.jbl.de/es/temas/essential_section/43/temario-de-jbl-sobre-su-aficiaon?country=es) 
+- [Reddit](https://www.reddit.com/r/PlantedTank/comments/escj6v/mountain_aquascape_room_shot_nature_aquarium/) 
+- [Aquatic Gardeners](https://showcase.aquatic-gardeners.org/2023/show202.html) 
+- [Instagram](https://www.instagram.com/p/CEn8qVKhwSU/?utm_source=Pinterest&utm_medium=organic )
+- [Pinterest](https://mx.pinterest.com/pin/407435097521111759/)
+- [Temu](https://www.temu.com/es/vinilos-decorativos-3d-para-acuarios-poster-de---con-plantas-adhesivo-autoadhesivo--calidad-y--para-aquascaping-g-601102089227878.html)
+
 ![Imagen generada por IA de Barranco](./ia.png)
-*Imagen generada por IA de Barranco*
+*Recreación aproximada generada por IA de Barranco*
