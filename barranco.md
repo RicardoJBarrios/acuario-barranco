@@ -41,7 +41,6 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
   - Frontal despejado, exploración lateral y refugio distribuido, sin puntos de dominancia
   - *Roca volcánica:* estructura y base, porosidad muy alta, abrasiva, ligera, inerte
   - *Madera de vid:* biofilm y microfauna, dura, químicamente segura, taninos
-
 - **Urna:** ≈60×30×30 cm (54 L, ≈45 L netos), vidrio ≥5 mm, foam ≥5 mm, vinilado esmerilado mate (trasera y derecha), tamaño usable en sistemas futuros
   - **Tapa:** de vidrio o policarbonato, apertura perimetral ≈4–5 mm y derecha más ancha para zona técnica (filtro, cables, ventilador, flora emergida) cerrada con rejilla, zona removible en frontal/izquierdo para alimentación; seguridad felina, reduce evaporación, estabiliza temperatura y EC
 - **Sustrato:**
@@ -62,7 +61,6 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
 - Plantado funcional de bajo mantenimiento, sin fertilizantes ni CO₂
   - Amortiguador biológico y químico y productor oxígeno
   - 20–30 % del primer plano abierto o con tapizante funcional 
-
 - **Fondo:** tallo alto, absorción rápida nutrientes, estabilización temprana y cierre visual posterior
   - **Limnophila sessiliflora:** (trasera/izquierda) crecimiento rápido, alto consumo NO₃/PO₄, filtro transitorio y amortiguación desequilibrios
   - **Vallisneria spiralis:** (trasera/derecha) crecimiento lento y estable, filtro radicular sostenido, alta tolerancia y mantenimiento mínimo, estructura vertical persistente
@@ -77,14 +75,11 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
   - **Taxiphyllum barbieri:** (parches pequeños en tronco y cavidades protegidas, flujo bajo) colonización rápida y adaptable, microhábitat invertebrados, retención partículas finas y refuerzo biológico localizado
 - **Superficie:** regulación lumínica, consumo nutrientes y refugio vertical
   - **Limnobium laevigatum:** (superficie, mitad izquierda) crecimiento rápido, alto consumo de NO₃/PO₄, modulación de luz y raíces colgantes como refugio/forrajeo, control simple por retirada
-- **Emergida:** refuerzo biológico aéreo, sumidero rápido de nutrientes y amortiguador de errores
-  - **Epipremnum aureum:** (trasera/derecha) raíces largas y finas en agua, absorción muy eficiente de NO₃/NH₄⁺, deflector hidráulico, soporte biofilm y microfauna, alta tolerancia a poda, variaciones de luz y ausencias, crecimiento guiable, refuerza resiliencia durante viajes
 - **Microflora:** (hardscape, sustrato y raíces) responsable del cierre del ciclo del nitrógeno, mineralización orgánica y amortiguación química
 
 ## Fauna
 
 - Subcarga biológica por diseño, centrada en el betta. 
-
 - **Consumidor secundario:** control conductual, carga orgánica y eje etológico del sistema
   - **Betta splendens PK/HMPK** (1M): control etológico columna de agua (media y superficie),  carga orgánica moderada, circulación suave, refugios distribuidos, sin dominancias rígidas, zonas de descanso cercanas a superficie, refugio blando y visibilidad controlada
 - **Consumidores primarios:** reciclaje orgánico, control de biofilm y soporte trófico
@@ -103,7 +98,6 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
 
 - Ventana química estable, no precisa, regulación pasiva distribuida, sin aditivos rutinarios
 - Ante desviaciones reducir carga, cambios parciales y ajustes luz/flujo, no correcciones químicas agresivas
-
 - **Parámetros:**
   - **Agua:** base RO remineralizada, reposición RO; receta fija = estabilidad iónica
   - **Cloro/cloraminas:** 0 mg/L; RO y/o acondicionador, tóxico para microflora e invertebrados
@@ -123,7 +117,6 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
 
 - Regulación energética global del ecosistema, equilibrio luz–nutrientes–biomasa sin CO₂ externo ni fertilización líquida rutinaria
 - Si aparece desbalance energético, se ajusta primero luz, luego biomasa, y solo al final hardware
-
 - **Iluminación:** LED espectro completo, intensidad moderada, distribución homogénea y pantalla suspendida para disipación térmica y sombras naturales
 - **Fotoperiodo:** 7 h objetivo (6,5–8 h según fase), rampa 30–45 min y ajustes según respuesta vegetal/algas.
 - **Intercambio gaseoso:** movimiento superficial suave, oxigenación por fotosíntesis y equilibrio natural de CO₂ (sin inyección)
@@ -133,7 +126,6 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
 ## Hardware
 
 - Acompaña a diseño para aumentar robustez y tolerancia al error, no son pilares
-
 - **Filtro:** (derecha/atrás) de mochila, caudal medio bajo y difuso, carga mecánica y biológica, caudal regulable (dispersado por masa principal y raices emergidas), prefiltro de esponja, *p. ej. Fluval AC20*
 - **Calefactor:** (lateral entrada filtro) con termostato 50W, *p. ej. Higger Mini*
 - **Iluminación:** (60 cm) LED de espectro completo para low-tech, cable suspensión, shades, dimmer, y ciclos día/noche con rampa, *p. ej. Chihiros B60*
@@ -161,7 +153,6 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
 - Barranco está diseñado por funciones y nichos, no por especies concretas
 - Las elecciones actuales son la implementación válida preferible, no la única
 - Lo importante no es que se parezca, es que funcione igual
-
 - **Se permiten** cambios si se mantiene nicho ecológico, función biológica, equilibrio luz–biomasa–nutrientes, subcarga biológica, flujo lento–difuso y ventana química estable, como por ejemplo:
   - **Caracol raspador:** *Clithon sp.* por *Neritina sp.*
   - **Gamba detritívora grande:** *Caridina multidentata* por *Caridina gracilirostris* (más delicadas)
@@ -172,7 +163,6 @@ Barranco es un ecosistema volcánico Low-Tech de 54L diseñado para un despacho 
   - **Zona media lenta:** *Cryptocoryne*, *Microsorum* y *Anubias* por *Bucephalandra*, *Bolbitis* u otras epífitas de bajo requerimiento
   - **Tapizante funcional:** *Marsilea* y *Sagittaria subulata* por *Helanthium* o *Cryptocoryne parva*
   - **Flotante reguladora:** *Limnobium* por *Salvinia* u otras flotantes fácilmente controlables
-  - **Emergida sumidero:** *Epipremnum* por *Spathiphyllum*, *Philodendron* o *Syngonium*
 - **No se permite** reducir biomasa funcional, eliminar absorción rápida en maduración, aumentar carga biológica, alterar química o romper el flujo difuso.
 
 ---
